@@ -21,3 +21,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.project
+
+*.dot
+
+# Vim temporary files
+[._]*.s[a-w][a-z]
+
+# Python
+*.pyc
+
+# Ignore compiled code
+target/
+
